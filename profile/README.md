@@ -1,6 +1,6 @@
 # Hi there, you found our Github 😍
 
-![Logo](./skult_noir_typo.png)
+![Logo](skult_noir_typo.png)
 
 ### About Us 🤗
 
